@@ -1,0 +1,14 @@
+@charset "UTF-8";
+@import url(reset.css);
+
+header {
+    background: #666
+}
+
+section {
+    background: #ff0
+}
+
+footer {
+    background: #efefef
+}
