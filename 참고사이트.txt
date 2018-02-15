@@ -1,0 +1,46 @@
+-레이아웃
+http://nuli.navercorp.com/data/ui_library/src/pattern/layout/jjs/fluid.html
+
+https://timeline.knightlab.com/#examples
+
+https://webdesign.tutsplus.com/ko/articles/7-css-units-you-might-not-know-about--cms-22573
+
+모바일기종 사이즈
+https://material.io/devices/
+
+모든브라우저 테스트
+https://turbo.net
+
+아이폰 z-index
+https://b.limminho.com/archives/1021
+
+css가이드
+http://wit.nts-corp.com/2015/04/16/3538
+
+자바스크립트 스터디
+https://programmers.co.kr/learn/courses/3
+
+git 사용방법
+https://nolboo.kim/blog/2013/10/06/github-for-beginner/
+https://blog.naver.com/nicecoding/220590027939
+
+visual svn 사용방법
+http://frog-hindleg.tistory.com/114
+
+visual box 사용방법
+https://extrememanual.net/7196
+
+css속성 호환성보기
+https://caniuse.com/
+
+인터넷 툴
+https://jsfiddle.net
+
+포트폴리오
+http://rwdb.kr/
+https://www.dbcut.com/bbs/index.php
+http://www.gdweb.co.kr/
+https://thefwa.com/
+https://www.awwwards.com/
+
+웹접근성 체크리스트
